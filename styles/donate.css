@@ -131,8 +131,98 @@
 .b3{
     background-color: #FFF4D6;
 }
-
-
-
-
 /* donate today end */
+
+
+/* your donation start */
+
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 50px;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 50px;
+}
+
+.you-title{
+    font-weight: bold;
+    color: black;
+    font-size: 45px;
+}
+
+.you-description{
+    font-size: 20px;
+    line-height: 1.5rem;
+}
+
+.pic{
+    width: 450px;
+    height: 450px;
+}
+/* your donation end */
+
+
+/* Get Update Start */
+.get{
+    margin-top: 70px;
+}
+
+.get-title{
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.anotherbox{
+    margin: 70px auto;
+    width: 80%;
+    height: 300px;
+    background-color: #FFF4D6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.em{
+    padding: 14px 15px;
+    height: 22px;
+    width: 230px;
+    z-index: 1;
+    border: 0;
+    background-color: #FFFFFF;
+}
+/* Get Update End */
+
+/* footer Start */
+.footer{
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.bh{
+    font-family: 'Dancing Script', cursive;
+    color: tomato;
+    font-weight: bold;
+    font-size: 35px;
+}
+.ig{
+    margin-top: 30px;
+    color: white;
+}
+/* footer End */
